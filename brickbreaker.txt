@@ -1,0 +1,9 @@
+Taran,Tarry,50
+Deep,Best,30
+Dan,Danny,10
+Charlie,Charl,47
+Ryan,Ryanair,70
+Usman,fly,200
+hrishit,absent,1
+usamaili,ali,0
+usma12,alii,0
